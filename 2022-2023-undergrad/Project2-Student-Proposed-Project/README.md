@@ -1,6 +1,6 @@
 # Title: Student proposed project 2022-2023
 
-![Student proposed project 2022-2023](./idea.jgp "Student proposed project 2022-2023").
+![Student proposed project 2022-2023](./idea.jpg "Student proposed project 2022-2023") {align=center}.
 
 # Description
 
