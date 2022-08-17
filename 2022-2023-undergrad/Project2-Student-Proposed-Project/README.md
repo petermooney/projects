@@ -1,7 +1,7 @@
 # Title: Student proposed project 2022-2023
 
-![Student proposed project 2022-2023](./idea.jpg "Student proposed project 2022-2023") {align=center}.
 
+<img src="./idea.jpg" alt="Student proposed project 2022-2023" style="height: 300px; width:200px;"/>
 # Description
 
 Do you have an idea that you'd like to implement as your dissertation project? Maybe you have a cool idea but aren't sure if it is sufficient or appropriate as a Computer Science project.
