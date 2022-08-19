@@ -1,6 +1,5 @@
 # Title: An analysis of smartphone usage during Computer Science lectures
 
-
 # Description
 This is a **research** project and the student is expected to contribute to the writing of a peer-reviewed journal paper publication which will be extracted from the final dissertation report submitted.
 
@@ -19,7 +18,6 @@ Any Google search for "digital distractions classroom" or "smartphone usage clas
  https://doi.org/10.1002/hbe2.229
 * Digital Distraction: Shedding Light on the 21st-Century College Classroom https://doi.org/10.1177%2F0047239517736876
 * Smartphones usage in the classrooms: Learning aid or interference?  https://doi.org/10.1007/s10639-017-9572-7
-
 
 # Languages and areas of interest
 
