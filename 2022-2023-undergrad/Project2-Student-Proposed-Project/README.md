@@ -7,6 +7,8 @@
 
 Do you have an idea that you'd like to implement as your dissertation project? Maybe you have a cool idea but aren't sure if it is sufficient or appropriate as a Computer Science project.
 
+Conducting your own research and creating a final year project develops transferrable skills, such as independent research, presentation and time management. These are assets that students will use again and again in their future careers. Many of my students in the past have produced excellent work arising from their own project ideas, which has helped them secure jobs at international companies or onwards into academia.
+
 **DISCLAIMER** - The proposed idea needs to pass two tests - firstly that it is of interest to me (in terms of supervision) and secondly that it has sufficient scope to qualify as a legitimate undergraduate project.
 
 # Reference or URL of supporting material
