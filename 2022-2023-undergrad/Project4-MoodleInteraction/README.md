@@ -15,7 +15,7 @@ This project will require the student to write their own software code from scra
 
 The image below shows a screenshot of an annonymised Moodle Log file. Some Moodle log files, depending on the module or course, can have over 100,000 log file entries for one Semester.
 
-<img src="./moodle-log-file.png" alt="Screenshot of a moodle log file" style="height: 300px; width:600px;"/>
+<img src="./moodle-log-file.png" alt="Screenshot of a moodle log file" style="height: 500px; width:800px;"/>
 
 
 # Languages and areas of interest
