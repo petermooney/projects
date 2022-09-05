@@ -23,3 +23,5 @@ The image below shows a screenshot of an annonymised Moodle Log file. Some Moodl
 Ideally, Python. The emphasis here is on the development of the 'engagement scores' or 'engagement measurements'. This project will not include a web-application or web-interface.
 
 The student will need to have an interest in analysis of the log files on Moodle. Certainly an interest in statistical analysis, visualisation, and the investigative research process are useful but not essential.
+
+Depending on the student's interest and ability machine learning approaches could be applied to learn and automatically classify various forms of engagement as found within the log file data. 
