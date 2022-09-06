@@ -27,7 +27,7 @@ The **core idea** for this software is as follows:
 * Read in a set of LaTeX documents and their associated or connected BibTeX documents as shown in this example.
 * Extract all citations in the LaTeX (as we have seen the `citep, citet` and so on)
 * Using the BibTeX file(s) consider the types of these citations (such as journal articles (line 1 and line 21 of the BibTeX screenshot), conference proceedings (line 12 of the BibTeX screenshot)), and so on.
-*Some ideas for functionality (which will be discussed in depth):
+* Some ideas for functionality (which will be discussed in depth):
 ** Could we draw a visualisation of the location of citations in the document? This could be generated automatically by looking at the structure of the LaTeX document (section, subsection, etc....) and where the citations are.
 ** How close are the citations in the text?
 ** Compute generaal statistics about the citations in a LaTeX document (or set of documents)
@@ -46,4 +46,4 @@ Previous experience of LaTeX and BibTeX is an advantage but not essential.
 
 Students must be willing to learn how to write LaTeX, use BibTeX and be good at complicated text parsing and processing.
 
-This software will be released to the world as open source software via GitHub as it is likely to be very useful to lots of people. 
+This software will be released to the world as open source software via GitHub as it is likely to be very useful to lots of people.
